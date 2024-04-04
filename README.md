@@ -18,7 +18,7 @@ This is a Next.js project for selling feng shui sources and providing some fortu
 
 - Next.js
 - React
-- Material UI
+- Taildwind CSS
 
 ## Usage:
 
