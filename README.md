@@ -1,4 +1,4 @@
-# Cleaning Shop Next.js Project
+# Feng Shui Source Selling Next.js Project
 
 This is a Next.js project for selling feng shui sources and providing some fortune telling features
 
